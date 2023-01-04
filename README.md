@@ -1,4 +1,4 @@
-# 6Companies30 Days
+# 6Companies 30Days
 
 ### Challenge Company 1 : Microsoft 
 
